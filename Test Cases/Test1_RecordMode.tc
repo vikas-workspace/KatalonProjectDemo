@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test1_RecordMode</name>
+   <tag>@sanity</tag>
+   <comment></comment>
+   <testCaseGuid>f43fd01c-c47a-4222-9538-035c00a66569</testCaseGuid>
+</TestCaseEntity>

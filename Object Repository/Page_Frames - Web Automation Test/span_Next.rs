@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Next</name>
+   <tag></tag>
+   <elementGuidId>af6f341c-ad14-412e-beff-c677c6ce96f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.uArJ5e.UQuaGc.YhQJj.zo8FOc.ctEux.qs41qe.M9Bg4d > span.l4V7wb.Fxmcue > span.NPEfkd.RveJvd.snByac</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55a4d182-2bdb-42dd-98ea-4bb13c9817c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NPEfkd RveJvd snByac</value>
+      <webElementGuid>74ccab0e-06a8-4d1b-9bc8-e6a78616c0a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>ffc1e154-dd21-4c75-8dc4-8bf76bff63a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;ThHDze&quot;]/div[@class=&quot;DE3NNc CekdCb&quot;]/div[@class=&quot;lRwqcd&quot;]/div[@class=&quot;uArJ5e UQuaGc YhQJj zo8FOc ctEux qs41qe M9Bg4d&quot;]/span[@class=&quot;l4V7wb Fxmcue&quot;]/span[@class=&quot;NPEfkd RveJvd snByac&quot;]</value>
+      <webElementGuid>7d24d208-2972-4d1d-b972-1eaf2e92790f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Frames - Web Automation Test/iframe_Loading</value>
+      <webElementGuid>c48c55c5-48e3-488b-bb2a-6171ab4614fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span</value>
+      <webElementGuid>4019c20e-7a6f-4f44-92bc-d29250de90fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Well, now I know :-)'])[1]/following::span[2]</value>
+      <webElementGuid>8d7aa7a0-b270-4107-82a8-2c0b4557f05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::span[3]</value>
+      <webElementGuid>c7b746c1-0101-4862-84eb-4864146cb5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear form'])[1]/preceding::span[1]</value>
+      <webElementGuid>d5a44170-336a-4996-8632-2ca1a2cc2ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Never submit passwords through Google Forms.'])[1]/preceding::span[3]</value>
+      <webElementGuid>2e02b975-6c4c-4a40-ae4e-1f09fcd9a409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>0d85923f-2162-452c-97c1-bca7e4daf008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span/span</value>
+      <webElementGuid>191782d3-20cb-4a1d-9df5-0add54ab16ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>9cbe8f4e-a541-48ba-b171-49a5b364d083</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
